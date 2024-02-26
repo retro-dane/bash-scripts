@@ -1,5 +1,5 @@
 #! /bin/bash
-## This script  will  update the current records in side your /etc/resolv.conf
+## This script  will  update the current records inside your /etc/resolv.conf
 
 FILE=/etc/resolve.conf
 DECOMDNS=list_of_old_nameservers.txt
